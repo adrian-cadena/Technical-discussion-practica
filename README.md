@@ -2,7 +2,7 @@
 Este es un ejercicio de la implementación de Technical Discussion para documentación en proyectos.
 
 ## Github + Markdown
-* Como primer paso utilizaremos GitHub con Markdown que es un tipo de código para implementar comentarios en nuestros proyectos y discusiones técnicas. efectivas.
+* Como primer paso utilizaremos GitHub con Markdown que es un tipo de código para implementar comentarios en nuestros proyectos y discusiones técnicas efectivas.
   * Primero crearemos un nuevo repositorio en Github.
 ## Gist
 * Es una forma de compartir fragmentos de código dentro de los editores de Github.
@@ -17,3 +17,5 @@ Para publicar un Gist en un repositorio solo es necesario incluirlo con el Markd
 seleccionamos la opción "share" y copiamos la dirección, a continuación podemos hacer referencia a este poniendo entre [] el texto que se convertira en un hipervínculo y seguido de este entre () la direccion que copiamos para compartir.
 
 Esta es un ejemplo de [Gist](https://gist.github.com/adrian-cadena/9fc153537641dbbc4016093701f217b6) 
+
+con este link podemos direccionarnos a nuestro Gist y los participantes pueden agregar comentarios.
