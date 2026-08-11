@@ -16,4 +16,4 @@ Este es un ejercicio de la implementación de Technical Discussion para document
 Para publicar un Gist en un repositorio solo es necesario incluirlo con el Markdow. En la parte superior de cada Gist hay un menu desplegable para compartirlos
 seleccionamos la opción "share" y copiamos la dirección, a continuación podemos hacer referencia a este poniendo entre [] el texto que se convertira en un hipervínculo y seguido de este entre () la direccion que copiamos para compartir.
 
-Esta es mi [Gist] (https://gist.github.com/adrian-cadena/9fc153537641dbbc4016093701f217b6)
+Esta es un ejemplo de [Gist](https://gist.github.com/adrian-cadena/9fc153537641dbbc4016093701f217b6) 
