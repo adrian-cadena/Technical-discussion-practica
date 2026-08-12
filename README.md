@@ -19,3 +19,7 @@ seleccionamos la opción "share" y copiamos la dirección, a continuación podem
 Esta es un ejemplo de [Gist](https://gist.github.com/adrian-cadena/9fc153537641dbbc4016093701f217b6) 
 
 con este link podemos direccionarnos a nuestro Gist y los participantes pueden agregar comentarios.
+
+## Conectar GoogleColab con Github 
+
+GoogleColab puede usarse prácticamente como un Gist en el sentido que podemos escribir código y dividir la documentación técnica en cada paso del proceso, y subirlo a nuestro repositorio cada que exista un cambio. Para esto abrimos un nuevo cuaderno en Colab y escribimos unas lineas e código en .py para nuestro caso sera una simple suma, podemos ingresar texto utilizando la estructura de Markdown para ir explicando el proyecto. una vez terminado, en la pestaña superior "Archivo" en el menú que se desplega seleccionamos "Guardar una copia en Github". Aparecerá un cuadro para notificarnos si autorizamos a Colab linkearse con nuestro Github. Aceptamos y confirmamos con nuestro correo electrónico  
